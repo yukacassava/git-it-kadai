@@ -1,1 +1,3 @@
 konichiwa sekai
+readme.txt
+
